@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**Podogas/Podogas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <img src="https://media.giphy.com/media/GqtNlBsWoEXDy/giphy.gif" width="200"/>
+  <br />
+  <br />
+  <div id="badges">
+  <a href="https://t.me/dirty_dozen">
+    <img src="https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://www.facebook.com/alexandr.podogas.7">
+    <img src="https://img.shields.io/badge/facebook-grey?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://www.instagram.com/apodogas/">
+    <img src="https://img.shields.io/badge/instagram-red?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
+</div>
+
+<hr />
+
